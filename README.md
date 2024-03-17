@@ -1,6 +1,6 @@
 # OUAGameJam
 
-  Contrubuter
+  Contrubuter, 
   Oğuzhan Yardımcı,  
   Merve Ekici,  
   Eda Parak, 
