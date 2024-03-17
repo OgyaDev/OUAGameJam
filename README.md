@@ -1,3 +1,6 @@
 # OUAGameJam
 
-initial Commit
+Contrubuter
+Oğuzhan Yardımcı
+Merve Ekici
+Eda Parak
